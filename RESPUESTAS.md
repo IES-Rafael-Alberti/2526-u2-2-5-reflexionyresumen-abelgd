@@ -39,7 +39,9 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 ---
 
 ## 2) Resumen esquematizado (obligatorio)
-Incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas sobre párrafos largos.
+[Aqui, incluye todos los puntos vistos en la unidad. Prioriza esquema/tabla/listas con contenido claro sobre los puntos importantes, sobre párrafos largos que no aporten. No olvides el resumen]
+
+[Además, puedes completarlo con:]
 
 ### 2.1) Mapa/índice de la unidad (visión global)
 
