@@ -1,9 +1,9 @@
 # RESPUESTAS — Reflexión y Resumen (Plantilla genérica)
 
-> **Actividad / ID:**  
-> **Unidad / Tema:**  
-> **Alumno/a:**  
-> **Fecha:**  
+> **Actividad / ID:** 2.a..e
+> **Unidad / Tema:** Unidad 2
+> **Alumno/a:** Abel García Domínguez
+> **Fecha:** 18/02/2026
 
 ---
 
