@@ -69,7 +69,7 @@ Incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas 
 |---|---|---|
 | **Elastic Stack (ELK)** | SIEM / Visualización | Ingesta de logs vía Filebeat, indexación con Elasticsearch y visualización en Kibana |
 | **Snort** | IDS/IPS | Detección y prevención de intrusiones en red mediante análisis de tráfico |
-| **Maltego / Shodan / Epieos / Sherlock** | OSINT | | Conjunto de herramientas para reconocimiento e inteligencia en fuentes abiertas |
+| **Maltego / Shodan / Epieos / Sherlock** | OSINT | Conjunto de herramientas para reconocimiento e inteligencia en fuentes abiertas |
 | **WHOIS / DNSDumpster** | OSINT | Información sobre dominios, registros DNS y propietarios |
 | **Google Dorks** | OSINT | Búsquedas avanzadas en motores de búsqueda para localizar información sensible expuesta |
 | **Wayback Machine** | OSINT | Consulta de versiones históricas de páginas web |
