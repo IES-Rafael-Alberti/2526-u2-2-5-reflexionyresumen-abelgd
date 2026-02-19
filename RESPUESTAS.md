@@ -61,7 +61,21 @@ Incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas 
 - **CSIRT/CERT/CIRT**: Equipos de respuesta a incidentes.
 
 ### 2.3) Procesos / procedimientos (pasos o checklist)
+Suponiendo que se trata de un ciberincidente, los procedimientos a seguir serián:
 
+1. *Identificación:* detectar el evento, confirmar si es incidente, recopilar información.
+​
+2. *Clasificación y priorización:* etiquetar el incidente con una taxonomía y asignar prioridad según peligrosidad e impacto (para saber que se atiende primero).
+
+3. *Contención:* frenar la propagación o el daño (aislar equipos, bloquear IPs/domínios, deshabilitar cuentas, etc.).
+
+4. *Mitigación:* aplicar medidas correctivas para reducir el impacto y eliminar la causa (parches, cambios de credenciales).
+
+5. *Recuperación:* restaurar servicios a operación normal y validar que el entorno vuelve a estar estable (verificaciones, monitorización reforzada).
+
+6. *Actuaciones post-incidente:* documentar lecciones aprendidas, mejorar controles/procedimientos y actualizar reglas de detección para evitar recurrencias.
+
+7. *Documentación continua:* timeline, evidencias, decisiones tomadas y comunicaciones realizadas.
 
 ### 2.4) Herramientas / técnicas (si aplica)
 
@@ -106,9 +120,14 @@ Incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas 
 Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, etc.) si forman parte de tu trabajo.
 
 ### Evidencia 1
-- **Archivo:** 
-- **Qué demuestra:** 
-- **Qué he aprendido:** 
+- **Archivo:** evidencias/1.png [01_SIEM](evidencias/1.png)
+- **Qué demuestra:** La instalación y configuración de un SIEM tipo ELK (Elasticsearch + Logstash + Kibana), con la ingesta de logs y la visualización/correlación de eventos en dashboards.
+- **Qué he aprendido:** A desplegar y dejar operativo un SIEM en un entorno de laboratorio, entendiendo el flujo completo de trabajo y a identificar problemas típicos de configuración.
+
+### Evidencia 2
+ - **Archivo:** evidencias/2.png [02_OSINT](evidencias/2.png)
+ - **Qué demuestra:**  Aplicación de una técnica OSINT de búsqueda inversa de imágenes con TinEye para identificar dónde aparece una imagen en Internet para localizar posibles fuentes originales.
+ - **Qué he aprendido:**  A usar la búsqueda inversa
 
 ---
 
