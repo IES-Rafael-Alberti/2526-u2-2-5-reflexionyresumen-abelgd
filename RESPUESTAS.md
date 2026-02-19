@@ -65,19 +65,19 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 ### 2.3) Procesos / procedimientos (pasos o checklist)
 Suponiendo que se trata de un ciberincidente, los procedimientos a seguir serián:
 
-1. *Identificación:* detectar el evento, confirmar si es incidente, recopilar información.
+1. **Identificación:** detectar el evento, confirmar si es incidente, recopilar información.
 ​
-2. *Clasificación y priorización:* etiquetar el incidente con una taxonomía y asignar prioridad según peligrosidad e impacto (para saber que se atiende primero).
+2. **Clasificación y priorización:** etiquetar el incidente con una taxonomía y asignar prioridad según peligrosidad e impacto (para saber que se atiende primero).
 
-3. *Contención:* frenar la propagación o el daño (aislar equipos, bloquear IPs/domínios, deshabilitar cuentas, etc.).
+3. **Contención:** frenar la propagación o el daño (aislar equipos, bloquear IPs/domínios, deshabilitar cuentas, etc.).
 
-4. *Mitigación:* aplicar medidas correctivas para reducir el impacto y eliminar la causa (parches, cambios de credenciales).
+4. **Mitigación:** aplicar medidas correctivas para reducir el impacto y eliminar la causa (parches, cambios de credenciales).
 
-5. *Recuperación:* restaurar servicios a operación normal y validar que el entorno vuelve a estar estable (verificaciones, monitorización reforzada).
+5. **Recuperación:** restaurar servicios a operación normal y validar que el entorno vuelve a estar estable (verificaciones, monitorización reforzada).
 
-6. *Actuaciones post-incidente:* documentar lecciones aprendidas, mejorar controles/procedimientos y actualizar reglas de detección para evitar recurrencias.
+6. **Actuaciones post-incidente:** documentar lecciones aprendidas, mejorar controles/procedimientos y actualizar reglas de detección para evitar recurrencias.
 
-7. *Documentación continua:* timeline, evidencias, decisiones tomadas y comunicaciones realizadas.
+7. **Documentación continua:** timeline, evidencias, decisiones tomadas y comunicaciones realizadas.
 
 ### 2.4) Herramientas / técnicas (si aplica)
 
@@ -134,3 +134,7 @@ Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, e
 ---
 
 ## 4) Conclusión (cierre)
+
+La unidad 2 me ha parecido por lo general interesante, ya que conocer las diferentes taxonomías y como aplicarlas me parece algo importante, pero sobre todo por la práctica con el SIEM y las prácticas de OSINT.
+La práctica con el SIEM aunque me ha parecido compleja de hacer, he aprendido como se forma un entorno real y me ha servido para entender un poco mejor el funcionamiento de un SIEM. A parte todas las prácticas hechas de OSINT me han hecho concienciarme sobre la importancia que tiene la huella digital y toda la información pública que pueden utilizar tuya. 
+Me hubiera gustado invertir más tiempo en los conceptos que engloban un SOC y sobre todo en la práctica del SIEM. Aún así he aprendido de cara a un futuro que partes componen un SOC y cómo funciona un SIEM a nivel de configuración y funcionamiento. 
